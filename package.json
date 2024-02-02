@@ -1,0 +1,23 @@
+{
+  "name": "grunt-esbuild",
+  "version": "0.0.1",
+  "description": "A grunt plugin to run esbuild.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coqsenpate/grunt-esbuild.git"
+  },
+  "keywords": [
+    "grunt",
+    "esbuild"
+  ],
+  "author": "Nicolas Leclerc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coqsenpate/grunt-esbuild/issues"
+  },
+  "homepage": "https://github.com/coqsenpate/grunt-esbuild#readme",
+  "peerDependencies": {
+    "grunt": ">=1"
+  }
+}
