@@ -7,7 +7,7 @@ This task directly sends the provided config to the build function of [esbuild](
 ## Install
 
 ```
-$ npm install --save-dev esbuild coqsenpate/grunt-esbuild
+$ npm install --save-dev esbuild "github:coqsenpate/grunt-esbuild#1.0.0"
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 {
   "name": "grunt-esbuild",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A grunt plugin to run esbuild.",
   "main": "index.js",
   "repository": {
