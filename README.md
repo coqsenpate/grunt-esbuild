@@ -19,9 +19,11 @@ grunt.initConfig({
   esbuild: {
     options: {
       buildFunction: require('esbuild').build
-    }
+    },
     dist: {
-
+      entryPoints: ['src/main.js'],
+      bundle: true,
+      outfile: 'dist/main.js',
     }
   }
 });
